@@ -17,3 +17,5 @@ EXEC onboarding.shop_address
 @AddresName = 'Алатырь',
 @numrows = @rc OUTPUT;
 SELECT @rc AS numrows;
+
+--Десятый коммит
