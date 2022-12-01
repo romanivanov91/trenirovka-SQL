@@ -35,3 +35,5 @@ values
 --Вызываем таблицу onboarding.T1_Audit. В ней будут данные автоматически занесенные триггером TRIGGER trg_T1_insert_audit
 select audit_lsn, dt, login_name, Serial_number, Product
 from onboarding.T1_Audit
+
+--14 коммит
